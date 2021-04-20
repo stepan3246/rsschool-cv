@@ -14,7 +14,7 @@ Think Different
 
 ## Skills
 
-- No skills(
+- No skills((
   
 ## Code examples
 -
