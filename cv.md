@@ -10,7 +10,7 @@ Mazurenko Stepan
 
 ## Summary
 
-Think Different
+Think Different!
 
 ## Skills
 
